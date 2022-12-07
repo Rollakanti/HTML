@@ -1,0 +1,16 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sravanthi's website</title>
+</head>
+<body style="background-color:rgb(247, 237, 242)">
+
+<h1 style="color:violet">Welcome to Nayini's Family</h1>
+<hr/>
+<p>Head of the family is <big><b><i> Nayini Srilatha</i></b></big></p>
+<p>Second person is <big><b><i> Nayini Sai Anurag Reddy</i></b></big></p>
+<p>Last person is <big><b><i> Nayini Sravanthi</i><b></big></p>
+
+</body>
+</html>
